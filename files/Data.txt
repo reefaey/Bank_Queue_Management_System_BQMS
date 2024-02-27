@@ -1,0 +1,10 @@
+Ahmed 1 30
+Mohamed 10 20
+Ali 1 14
+Eslam 4 4
+Hassan 3 32
+Selim 7 9
+Nour 6 19
+Hany 4 17
+Rady 12 28
+Samy 8 14

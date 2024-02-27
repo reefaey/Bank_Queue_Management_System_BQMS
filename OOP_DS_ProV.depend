@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1709071808 source:d:\iti\labs_projects\oop_ds_project\oop_ds_prov\main.cpp
+	<iostream>
+	<fstream>
+	"Bank.h"
+
+1709073161 d:\iti\labs_projects\oop_ds_project\oop_ds_prov\include\bank.h
+	"CustomerQueue.h"
+	"Teller.h"
+	"Customer.h"
+	<windows.h>
+	<queue>
+	<fstream>
+	<iostream>
+
+1709071776 d:\iti\labs_projects\oop_ds_project\oop_ds_prov\include\customerqueue.h
+	"Customer.h"
+
+1709071759 d:\iti\labs_projects\oop_ds_project\oop_ds_prov\include\customer.h
+	<iostream>
+
+1709071800 d:\iti\labs_projects\oop_ds_project\oop_ds_prov\include\teller.h
+	"Customer.h"
+
